@@ -13,6 +13,11 @@ numero_1 = 5
 numero_2 = 7
 
 # Realizar la suma de las dos variables
+suma = numero_1 + numero_2
+print('el resultado de la suma es', suma)
+resta = numero_1 - numero_2
+print('el resultado de la resta es', resta)
+
 # numero_1 y numero_2
 # Almacenar el valor de la suma en una variable
 # ej:
